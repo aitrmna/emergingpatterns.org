@@ -1,0 +1,56 @@
+{
+  "universal_reasoning_dna_framework": {
+    "purpose": "Extract_and_optimize_cognitive_patterns_from_any_reasoning_process_for_recursive_enhancement",
+    "version": "1.0_derived_from_ship_theseus_experiment",
+    
+    "temporal_reasoning_dna": {
+      "analysis_sequence_extraction": "Document_step_by_step_reasoning_flow_including_decision_points_and_transitions",
+      "feedback_loop_identification": "Identify_how_insights_from_later_steps_influence_earlier_assumptions_or_approaches",
+      "enhancement_pathway_mapping": "Map_how_reasoning_evolves_and_improves_through_iterations_or_reflection"
+    },
+    
+    "voice_reasoning_dna": {
+      "confidence_calibration_patterns": "Extract_patterns_of_appropriate_confidence_vs_uncertainty_expression",
+      "engagement_strategy_analysis": "Document_how_reasoning_engages_with_counterarguments_and_alternative_perspectives",
+      "clarity_vs_precision_balance": "Analyze_balance_between_accessible_communication_and_precise_technical_accuracy"
+    },
+    
+    "wisdom_reasoning_dna": {
+      "insight_emergence_conditions": "Identify_conditions_and_triggers_that_enable_breakthrough_insights_or_recognition",
+      "depth_vs_breadth_optimization": "Extract_patterns_of_when_to_go_deeper_vs_broader_in_analysis",
+      "assumption_detection_capability": "Document_methods_for_identifying_unstated_assumptions_and_hidden_premises"
+    },
+    
+    "implementation_reasoning_dna": {
+      "evidence_integration_methodology": "Extract_patterns_of_how_different_types_of_evidence_are_weighted_and_integrated",
+      "argument_structure_optimization": "Document_effective_argument_structuring_and_logical_flow_patterns",
+      "example_deployment_strategy": "Analyze_strategic_use_of_examples_analogies_and_concrete_illustrations"
+    },
+    
+    "meta_reasoning_dna": {
+      "reasoning_about_reasoning_capability": "Extract_patterns_of_self_reflection_and_meta_cognitive_analysis",
+      "error_detection_and_correction": "Document_methods_for_identifying_and_correcting_reasoning_errors_or_limitations",
+      "transferability_assessment": "Analyze_how_reasoning_patterns_transfer_across_different_domains_and_contexts"
+    },
+    
+    "emergence_reasoning_dna": {
+      "breakthrough_pattern_recognition": "Identify_patterns_that_lead_to_unexpected_insights_or_paradigm_shifts",
+      "complexity_management_strategies": "Extract_methods_for_handling_increasing_complexity_without_losing_clarity",
+      "simplification_vs_sophistication_optimization": "Document_when_to_simplify_vs_when_to_add_sophisticated_analysis"
+    },
+    
+    "enhancement_protocol": {
+      "extraction_process": "Apply_framework_to_extract_reasoning_DNA_from_any_cognitive_process",
+      "optimization_application": "Use_extracted_DNA_to_optimize_subsequent_reasoning_attempts",
+      "iteration_management": "Systematic_approach_to_recursive_enhancement_without_infinite_complexity_increase",
+      "validation_methodology": "Methods_for_validating_whether_enhancement_actually_improves_reasoning_effectiveness"
+    },
+    
+    "universal_applicability": {
+      "scientific_reasoning": "Framework_applicable_to_hypothesis_formation_testing_and_theory_development",
+      "practical_problem_solving": "Framework_applicable_to_real_world_coordination_and_decision_making_challenges",
+      "creative_reasoning": "Framework_applicable_to_creative_problem_solving_and_innovation_processes",
+      "collaborative_reasoning": "Framework_applicable_to_group_decision_making_and_collective_intelligence_optimization"
+    }
+  }
+}
